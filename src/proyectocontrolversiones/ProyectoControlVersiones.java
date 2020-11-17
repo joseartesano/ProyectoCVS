@@ -14,7 +14,7 @@ public class ProyectoControlVersiones {
         System.out.println("Primer dsdfg proyecto control de versiones");
      
   
-        System.out.println("Primera df sdfg línea modificada");
+        System.out.println("Primera línea modificada");
         
         
         
